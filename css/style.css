@@ -1,0 +1,117 @@
+body {
+    background-image: url(log.jpg);
+    background-size: cover;
+}
+.container {
+    width: 300px;
+    height: max-content;
+    margin-left: 0%;
+    margin-top: 12%;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border: 0px solid #ccc;
+    align-items: center;
+}
+
+h2 {
+    margin-left: 28%;
+    font-family: system-ui;
+    color: aliceblue;
+}
+h3 {
+    margin-left: 28%;
+    font-family: arial;
+    color: aliceblue;
+}
+h4 {
+    text-align: center;
+    font-family: arial;
+}
+h5 {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 16px;
+    text-align: left;
+    font-family: arial;
+    color: rgb(0, 0, 0);
+}
+h6 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 16px;
+    text-align: left;
+    font-family: arial;
+    color: rgb(0, 0, 0);
+}
+form {
+    text-align: left;
+    margin-left: 18px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    align-content: center;
+    width: 70%;
+    padding: 0px;
+    margin-top: 10px;
+    margin-bottom: 11px;
+}
+
+.error {
+    color: red;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+ .body2 {
+    background-color:#000A40;
+
+ }
+
+input[type="submit"] {
+    width: 40%;
+    margin-top: 10px;
+}
+.container2 {
+    width: 300px;
+    margin-left: 0%;
+    margin-top: 12%;
+    padding: 20px;
+    background-color: #cbcbcb;
+    border: 1px solid #2c2c2c;
+    align-items: center;
+}
+
+label[for="category"],
+label[for="comment"],
+label[for="quantity"] {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    align-content:center;
+    color: rgb(0, 0, 0);
+}
+
+.container3 {
+    width: 300px;
+    margin-left: 0%;
+    margin-top: 10%;
+    padding: 20px;
+    background-color: #cbcbcb;
+    border: 1px solid #2c2c2c;
+    align-items: center;
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px
+    ;
+}
+
+.submit2 {
+    width: 70%;
+    margin-top: 10px;
+}
